@@ -1,7 +1,4 @@
-- 👋 Hi, I’m @the-leohan
-- Thank you for your visit.
+<h1 align="center">Hi 👋, I'm TheLeoHan.</h1>
+<h3 align="center">A middle school student from the PRC.</h3>
 
-<!---
-the-leohan/the-leohan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+# ![Mario_Gameplay](https://github.com/erbanku/erbanku/assets/79493862/56f4be91-dcd4-4700-838d-5545ccdbf859)
